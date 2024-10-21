@@ -1,0 +1,64 @@
+<resources>
+    <string name="app_name">SprintTiendaZapatos</string>
+    <string name="manshoes">"Man Shoes"</string>
+    <string name="womanshoes">"Woman Shoes"</string>
+    <string name="snickers">"Snickers"</string>
+    <string name="shoe_image">"Shoe image"</string>
+
+    <integer name="id_1">0</integer>
+    <string name="zapato_h1">"Shoe man 1"</string>
+    <string name="precio_h1">"$4.34"</string>
+    <string name="desc_h1">"Black men's shoe"</string>
+    <string name="tallas_h1">"40 41 42"</string>
+    <string name="colores_h1">"Rojo Verde Amarillo"</string>
+
+
+    <integer name="id_2">1</integer>
+    <string name="zapato_h2">"Shoe man 2"</string>
+    <string name="precio_h2">"$4.34"</string>
+    <string name="desc_h2">"Black men's shoe"</string>
+
+    <integer name="id_3">2</integer>
+    <string name="zapato_h3">"Shoe man 3"</string>
+    <string name="precio_h3">"$4.34"</string>
+    <string name="desc_h3">"Black men's shoe"</string>
+
+    <integer name="id_4">3</integer>
+    <string name="zapato_m1">"Shoe woman 1"</string>
+    <string name="precio_m1">"$4.34"</string>
+    <string name="desc_m1">"Black women's shoe"</string>
+
+    <integer name="id_5">4</integer>
+    <string name="zapato_m2">"Shoe woman 2"</string>
+    <string name="precio_m2">"$4.34"</string>
+    <string name="desc_m2">"Black women's shoe"</string>
+
+    <integer name="id_6">5</integer>
+    <string name="zapato_m3">"Shoe woman 3"</string>
+    <string name="precio_m3">"$4.34"</string>
+    <string name="desc_m3">"Black women's shoe"</string>
+
+    <integer name="id_7">6</integer>
+    <string name="zapatilla1">"Snickers 1"</string>
+    <string name="precio_z1">"$4.34"</string>
+    <string name="desc_z1">"Running sports shoe"</string>
+
+    <integer name="id_8">7</integer>
+    <string name="zapatilla2">"Snickers 2"</string>
+    <string name="precio_z2">"$4.34"</string>
+    <string name="desc_z2">"Running sports shoe"</string>
+
+    <integer name="id_9">8</integer>
+    <string name="zapatilla3">"Snickers 3"</string>
+    <string name="precio_z3">"$4.34"</string>
+    <string name="desc_z3">"Running sports shoe"</string>
+
+
+
+
+
+
+
+
+
+</resources>
